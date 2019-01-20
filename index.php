@@ -29,7 +29,7 @@
         <meta property="og:site_name" content="PAZ para TODOS">
     </head>
     <body>
-        <main id="text">
+        <main>
             <h1>A PAZ no MUNDO começa no <u>TEU</u> prato.</h1>
             <form action="https://www.google.pt/search" method="GET">
                 <input type="hidden" value="vegano vegan" name="q">
@@ -47,7 +47,7 @@
                 </p>
             </form>
         </main>
-        <footer id="barre_langues">
+        <footer>
             <nav>
                 <a href="https://peace4everyone.info/"><img src="images/drap_en.gif" width="35" height="25" alt="English"></a>
                 <a href="https://paixpourtous.com/"><img src="images/drap_fr.gif" width="35" height="25" alt="Français"></a>
